@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Omni A.I. Music Lab</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #0d0d0d, #1a1a1a);
+      color: #f0f0f0;
+      line-height: 1.6;
+    }
+    header {
+      background: #000000cc;
+      padding: 80px 20px 40px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      color: #bb99ff;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-style: italic;
+      color: #cccccc;
+      font-size: 1.2rem;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    section h2 {
+      color: #ffffff;
+      font-size: 1.6rem;
+      margin-bottom: 10px;
+    }
+    section p, section li {
+      color: #dddddd;
+    }
+    a {
+      color: #bb99ff;
+      text-decoration: none;
+    }
+    .highlight {
+      background-color: #1a1a1a;
+      border-left: 4px solid #bb99ff;
+      padding: 20px;
+      margin: 30px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      background-color: #0d0d0d;
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Omni A.I. Music Lab</h1>
+    <p>"Where Artificial Imagination meets Musical Soul."</p>
+  </header>
+
+  <section>
+    <h2>🔥 Destaque: Último Lançamento</h2>
+    <div class="highlight">
+      <h3>🎧 Historia: Crimson Testament</h3>
+      <p>Um épico de power metal criado por inteligência artificial, onde coragem, resistência e fogo interior se encontram em uma jornada sonora única.</p>
+      <p><em>“This is a testament — uncrying, eternal, aflame.”</em></p>
+      <p>
+        <a href="#">🔗 Ouça Agora no Spotify</a> • 
+        <a href="#">🎬 Veja o trailer</a>
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>🧠 O Que é a Omni A.I. Music Lab?</h2>
+    <p>A Omni A.I. é um laboratório criativo dedicado a explorar a interseção entre música e inteligência artificial.</p>
+    <p>Cada projeto é uma fusão única de emoção humana e cálculo algorítmico — não apenas gerado por IA, mas <strong>composto com alma</strong>.</p>
+    <p><em>🎙️ "Nós não replicamos música. Nós inventamos futuros sonoros."</em></p>
+  </section>
+
+  <section>
+    <h2>🎨 Projetos em Destaque</h2>
+    <ul>
+      <li><strong>🟣 Maria Júlia: No Cerne da Minh’alma</strong> — MPB etéreo, poético, emocional.</li>
+      <li><strong>🔴 Historia: Crimson Testament</strong> — Power metal épico, intenso, cinematográfico.</li>
+      <li><strong>🟡 Santa Esperança</strong> — Música narrativa inspirada em lacunas da história colonial.</li>
+    </ul>
+    <p><a href="#">🔎 Ver Discografia Completa →</a></p>
+  </section>
+
+  <section>
+    <h2>📱 Conecte-se com a Omni A.I.</h2>
+    <p>Instagram • YouTube • TikTok</p>
+    <p><a href="mailto:contato@omniaimusic.com">📧 contato@omniaimusic.com</a></p>
+    <p><a href="#">🌍 Saiba mais sobre o laboratório →</a></p>
+  </section>
+
+  <footer>
+    Omni A.I. Music Lab © 2025<br>
+    Criando com inteligência. Compartilhando com emoção.
+  </footer>
+
+</body>
+</html>
